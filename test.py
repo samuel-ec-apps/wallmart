@@ -1,4 +1,3 @@
+import random
 print("Hello world")
-for i in range(6, 10):
-    print(i)
-
+print("Randomr number is "random.randint())
