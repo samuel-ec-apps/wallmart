@@ -1,4 +1,4 @@
 print("Hello world")
-for i in range(6):
+for i in range(6, 10):
     print(i)
 
